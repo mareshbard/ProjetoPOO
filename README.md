@@ -1,9 +1,12 @@
-# ProjetoPOO
+# Projeto de Programação Orientada à Objetos
 
-### Aqui você encontrará:
+### Bem-vindos ao nosso repositório! Ele guardará o nosso trabalho final da disciplina de POO. Obrigada pela atenção!
+~~~
+ AQUI VOCÊ ENCONTRARÁ:
+
 - CALCULADORA IMC
 - CALCULADORA COMUM
-
+~~~
   ### COLABORADORES:
 ✦ [Antônio Abner](https://github.com/frsmth)
  
