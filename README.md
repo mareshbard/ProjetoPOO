@@ -10,8 +10,10 @@
 
 ~~~
 FERRAMENTAS UTILIZADAS:
+
 - CANVA
-- 
+- NETBEANS
+- PAINT.NET
 ~~~
 # TELA DE ESCOLHA:
 ![image (1)](https://github.com/mareshbard/mareshbard/assets/125154278/4a0aad37-08e7-4692-b1d7-bf9284b07277)
