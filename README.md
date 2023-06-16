@@ -23,6 +23,9 @@ FERRAMENTAS UTILIZADAS:
 
 # CALCULADORA IMC:
 
+# FLUXOGRAMA DO PROJETO:
+![IMG-20230616-WA0015](https://github.com/mareshbard/mareshbard/assets/125154278/87f87e5e-1c58-4b4e-8928-4b234a6d523e)
+
 # SOBRE NÓS:
   ### COLABORADORES:
 ✦ [Antônio Abner](https://github.com/frsmth)
