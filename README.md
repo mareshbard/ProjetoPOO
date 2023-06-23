@@ -43,8 +43,11 @@ FERRAMENTAS UTILIZADAS:
 
   ### COLABORADORES:
 ✦ [Antônio Abner](https://github.com/frsmth)
+- Codificação, design e criação da interface
  
 ✦ [Letícia Vitória](https://github.com/mareshbard)
+- Design de telas e apresentação no Github
 
 ✦ [Matheus Carvalho](https://github.com/matheussdcarvalho)
+- Diagrama e Fluxograma do projeto
  
