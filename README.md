@@ -34,7 +34,8 @@ FERRAMENTAS UTILIZADAS:
 ![IMG-20230616-WA0015](https://github.com/mareshbard/mareshbard/assets/125154278/87f87e5e-1c58-4b4e-8928-4b234a6d523e)
 
 # ▩ DIAGRAMA DE CLASSES:
-![photo_2023-06-23_05-41-21](https://github.com/mareshbard/mareshbard/assets/125154278/44ab2ab5-316a-4db5-8ad5-1d7ba85030c8)
+![image](https://github.com/mareshbard/mareshbard/assets/125154278/a60a0d01-ee85-42a6-ac88-a0965f45fed3)
+
 
 # ▩ SOBRE NÓS:
 
