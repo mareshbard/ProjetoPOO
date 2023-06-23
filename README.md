@@ -19,14 +19,18 @@ FERRAMENTAS UTILIZADAS:
 ![image (1)](https://github.com/mareshbard/mareshbard/assets/125154278/4a0aad37-08e7-4692-b1d7-bf9284b07277)
 
 # ▩ CALCULADORA COMUM:
-
+![IMG-20230622-WA0024](https://github.com/mareshbard/mareshbard/assets/125154278/cb49b441-b1c1-4ee8-9787-11783e960301)
 
 # ▩ CALCULADORA IMC:
+![IMG-20230622-WA0023](https://github.com/mareshbard/mareshbard/assets/125154278/6cc40584-b5d6-4e99-be10-ff46324a8678)
 
 # ▩ FLUXOGRAMA DO PROJETO:
 ![IMG-20230616-WA0015](https://github.com/mareshbard/mareshbard/assets/125154278/87f87e5e-1c58-4b4e-8928-4b234a6d523e)
 
 # ▩ SOBRE NÓS:
+
+![socrorro](https://github.com/mareshbard/mareshbard/assets/125154278/43671331-2f28-4328-b90f-67a0c74d5ad2)
+
   ### COLABORADORES:
 ✦ [Antônio Abner](https://github.com/frsmth)
  
