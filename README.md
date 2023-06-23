@@ -2,11 +2,11 @@
 
 ### Bem-vindos ao nosso repositório! Ele guardará o nosso trabalho final da disciplina de POO. Obrigada pela atenção!
 
-▩ [ZIP DO PROJETO EM JAR (EXECUTÁVEL):](https://github.com/mareshbard/ProjetoPOO/blob/main/Programa_CalcLab_Distribuicao.zip)
+▩ [ZIP DO PROJETO EM JAR (EXECUTÁVEL)](https://github.com/mareshbard/ProjetoPOO/blob/main/Programa_CalcLab_Distribuicao.zip)
 
-▩ [ZIP DO ARQUIVO COM CÓDIGOS PARA ABRIR NO NETBEANS:](https://github.com/mareshbard/ProjetoPOO/blob/main/Projeto_CalcLab.zip)
+▩ [ZIP DO ARQUIVO COM CÓDIGOS PARA ABRIR NO NETBEANS](https://github.com/mareshbard/ProjetoPOO/blob/main/Projeto_CalcLab.zip)
 
-▩ [ZIP DO JAVADOC:](https://github.com/mareshbard/ProjetoPOO/blob/main/javadoc-2.zip)
+▩ [ZIP DO JAVADOC](https://github.com/mareshbard/ProjetoPOO/blob/main/javadoc-2.zip)
 ~~~
  AQUI VOCÊ ENCONTRARÁ:
 
