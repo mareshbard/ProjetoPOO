@@ -1,4 +1,4 @@
-# ▩ PROJETO DE PROGRAMAÇÃO ORIENTADA À OBJETOS ▩ 
+# ▩ PROJETO DE PROGRAMAÇÃO ORIENTADA À OBJETOS: CALCLAB: NAVY ▩ 
 
 ### Bem-vindos ao nosso repositório! Ele guardará o nosso trabalho final da disciplina de POO. Obrigada pela atenção!
 
