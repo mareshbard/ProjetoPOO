@@ -21,6 +21,12 @@ FERRAMENTAS UTILIZADAS:
 - NETBEANS
 - PAINT.NET
 ~~~
+# ▩ TELA DE LOGIN:
+![image (1)](https://media.discordapp.net/attachments/964661661418000434/1138550815511023707/TelaLoginFinal.png?width=745&height=621)
+
+# ▩ TELA DE CADASTRO:
+![image (1)](https://media.discordapp.net/attachments/964661661418000434/1138550815125155933/TelaCadastroFinal.png?width=745&height=621)
+
 # ▩ TELA DE ESCOLHA:
 ![image (1)](https://github.com/mareshbard/mareshbard/assets/125154278/4a0aad37-08e7-4692-b1d7-bf9284b07277)
 
